@@ -23,7 +23,7 @@ Przykład: `test2.pl`
 
 Jakbyście zapytali o to, kogo lubi Jan? A o pary ludzi, którzy lubią się wzajemnie?
 
-# Program: fakty i reguły wnioskowania
+### Program: fakty i reguły wnioskowania
 * Reguły wnioskowania
 * Przykład: `test3.pl`
 
