@@ -7,7 +7,7 @@
 ### Definiowanie świata, w jakim się poruszamy
 W jaki sposób możemy opisać fakt?
 
-Przykład: `test1.pl` (uruchamiamy pisząc `swipl test1.pl`).
+Przykład: `facts.pl` (uruchamiamy pisząc `swipl facts.pl`).
 
 Jak zadawać pytania?
 
@@ -19,13 +19,13 @@ Różnica pomiędzy stałymi i zmiennymi.
 ### Predykaty wieloargumentowe
 Co to są predykaty wieloargumentowe?
 
-Przykład: `test2.pl`
+Przykład: `like.pl`
 
 Jakbyście zapytali o to, kogo lubi Jan? A o pary ludzi, którzy lubią się wzajemnie?
 
 ### Program: fakty i reguły wnioskowania
 * Reguły wnioskowania
-* Przykład: `test3.pl`
+* Przykład: `rules.pl`
 
 ### Zadanie
 Drzewo genealogiczne
