@@ -34,9 +34,15 @@ Drzewo genealogiczne
 
 ### Obiekty
 Oprócz orzekania o napisach (np. `kot(pikus)`, czyli `pikus` to obiekt, dla którego
-zachodzi własność `kot`), można orzekać o obiektach:
-`trzymam_w_domu(kot(pikus, 10, 7))`. Czytamy to: "`kot(pikus, 10, 7)` to obiekt,
-dla którego zachodzi własność `trzymam_w_domu`.
+zachodzi własność `kot`), można orzekać o obiektach: `trzymam_w_domu(kot(pikus, 10, 7))`.
+Czytamy to: "`kot(pikus, 10, 7)` to obiekt, dla którego zachodzi własność `trzymam_w_domu`.
 
 ### Zadanie
 Napisz predykat co na podstawie imienia znajdzie ile zwierzę (z `facts2.pl`) ma lat.
+
+### Zadanie
+Napisz predykat co na podstawie imienia znajdzie zwierzęta mające (z `facts2.pl`) ileś lat.
+
+### Listy
+* Co to jest lista?
+* Lista pusta kontra lista niepusta.
