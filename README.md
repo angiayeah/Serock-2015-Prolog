@@ -1,6 +1,5 @@
 # Warsztaty KFnrD w Serocku, rok 2015 - Programowanie w logice
 
-## Dzień 1
 * Co to jest programowanie w logice?
 * Co to jest predykat?
 
@@ -32,3 +31,12 @@ Drzewo genealogiczne
 
 * podajcie kilka faktów postaci `ojciec(siemomysl, mieszko1)`
 * utwórzcie predykat `wnuk`
+
+### Obiekty
+Oprócz orzekania o napisach (np. `kot(pikus)`, czyli `pikus` to obiekt, dla którego
+zachodzi własność `kot`), można orzekać o obiektach:
+`trzymam_w_domu(kot(pikus, 10, 7))`. Czytamy to: "`kot(pikus, 10, 7)` to obiekt,
+dla którego zachodzi własność `trzymam_w_domu`.
+
+### Zadanie
+Napisz predykat co na podstawie imienia znajdzie ile zwierzę (z `facts2.pl`) ma lat.
